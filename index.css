@@ -14,9 +14,11 @@ html{
   font-family: 'Poppins', sans-serif;
 }
 
+
+
 .wrapper p{
   font-weight: bold;
-  font-size: 3rem;
+  font-size: 2rem;
 }
 
 .faIcon{
@@ -73,18 +75,22 @@ div.wrapper{
 
 
 .dayMode{
-  background-color: white;
+  background-color: #efefef;
   color:black;
 }
 
 .nightMode{
   background-color: black;
-  color:white;
+  color:#efefef;
 }
 
 .wrapper2{
   padding:1rem;
 }
-p{
-  margin-bottom: .5rem;
+ul{
+  margin-left: 2rem;
+}
+h2{
+  margin-top: .5rem;
+  font-weight: 400;
 }
